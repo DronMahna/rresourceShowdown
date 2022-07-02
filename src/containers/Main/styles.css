@@ -1,0 +1,15 @@
+.cont-main-main {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  background: #0a1727;
+  z-index: -1;
+  align-content: center;
+}
+.videoTag {
+  height: 90vh;
+  width: 100%;
+  background: #0a1727;
+  z-index: 0;
+  margin: auto;
+}
